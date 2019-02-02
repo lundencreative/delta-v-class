@@ -1,0 +1,28 @@
+
+h1 {
+  color: blue;
+}
+
+.navbar {
+  width: 100%;
+  text-align: center;
+  list-styel
+  background-color: 7CEA9C;
+}
+
+.navbar a {
+  float: left;
+  width: 25%;
+}
+
+a:hover:not {
+  background-color: 0CBABA;
+}
+
+.navbar a.active {
+  background-color: 7CEA9C;
+}
+
+h2 {
+  padding: 50px;
+}
